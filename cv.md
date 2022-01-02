@@ -1,10 +1,10 @@
-#Рекомендации EPAM HR department
+#Recommendations of EPAM HR department
 
-   1. Мигушкин Марс
-   2. **Контакты:** *migmas@bk.ru*
-   3. **Краткая информация о себе:** любознательный поэтому я здесь учусь 
-   4. **Навыки:** SQL, Python
-   5. **Примеры кода:** https://github.com/migmass
-   6. **Опыт работы:** руководитель строительных проектов
-   7. **Образование:** в\о 
-   8. **Английский язык:** А2, поездки по программам работай и путешествуй для студентов в США
+1. Migushkin Mars
+2. **Contacts:** *migmas@bk.ru *
+3. **Brief information about yourself:** inquisitive so I'm studying here
+4. **Skills:** SQL, Python
+5. **Code examples:** https://github.com/migmass
+6. **Work experience:** construction project manager
+7. **Education:** higher education
+8. **English:** A2, Work and travel program trips for students in the USA
