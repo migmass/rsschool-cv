@@ -8,7 +8,7 @@ body {
     padding: 0;
     margin: 0;
     min-height: 100vh;
-    background-color: chartreuse;
+    background-color: rgb(56, 99, 14);
     background-image: url("assets/img/back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -24,7 +24,7 @@ body {
 .header {
     display: flex;
     align-items: center;
-    border-bottom: 10px solid #4c4cec;   
+    border-bottom: 10px solid #57c268;   
 }
 .nav-list {
   display: flex;
@@ -39,6 +39,6 @@ body {
   font-size: 20px;
   font-weight: 300;
   line-height: 50px;
-  color: #fff; 
+  color: rgb(124, 93, 6); 
 }
 
