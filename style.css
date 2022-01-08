@@ -19,6 +19,9 @@ body {
 .container {
     max-width: 1500px;
     margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .header {
@@ -41,4 +44,27 @@ body {
   line-height: 50px;
   color: rgb(124, 93, 6); 
 }
+.section {
+  width: calc(50% - 20px);
+  padding: 10px;
+  padding-bottom: 35px;
+  border-bottom: 1px solid #672f2f;
+}
+.section-profile-logo {
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  filter: grayscale(0.2) brightness(1.05);
+  transition: .3s;
+}
 
+.section-profile-logo:hover {
+  filter: none;
+}
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 50px 30px 35px;
+  border-bottom: 15px solid #d7d1c9;
+}
